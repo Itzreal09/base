@@ -1,8 +1,8 @@
 {
-    "name": "String-Session_bot",
-    "description": "A bot for Generating String Session of Telegram Account mostly for Userbots.",
-    "repository": "https://github.com/Itzme/String-Session_Bot",
-    "logo": "https://telegra.ph/file/b3402442a51b83b52e34d.jpg",
+    "name": "Nezuko",
+    "description": "A bot ",
+    "repository": "https://github.com/Itzreal09/base",
+    "logo": "#",
     "keywords": [
         "python",
         "telegram"
